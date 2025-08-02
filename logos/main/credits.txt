@@ -1,0 +1,7 @@
+Credits
+JF: Original concept and guidance
+Nero: Origami Bluefin design
+Chandeleer: Guidance and kerning
+ki: Monocolor-compatible version
+JumpyVi: Dark mode suggestion and advice in general
+Delphic Melody: Execution
