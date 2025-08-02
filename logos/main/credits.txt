@@ -1,6 +1,6 @@
 Credits
 JF: Original concept and indispensable guidance
-Nero: Origami Bluefin design
+Nero: Origami Bluefin design and svg file for Proper variants
 Chandeleer: Invaluable guidance and kerning
 ki: Monocolor-compatible version
 JumpyVi: Dark mode and light blue variant suggestions and advice in general
