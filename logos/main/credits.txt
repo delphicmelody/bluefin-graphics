@@ -4,4 +4,5 @@ Nero: Origami Bluefin design
 Chandeleer: Guidance and kerning
 ki: Monocolor-compatible version
 JumpyVi: Dark mode suggestion and advice in general
+René Magritte: Seminal inspiration from his piece Le Blanc-Seing/Blank Signature
 Delphic Melody: Execution
